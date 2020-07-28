@@ -15,6 +15,7 @@
 		AE5A61B724CE4FA9006D0E8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE5A61B524CE4FA9006D0E8B /* LaunchScreen.storyboard */; };
 		AE5A61BF24CE4FCF006D0E8B /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE5A61BE24CE4FCF006D0E8B /* ImagePicker.swift */; };
 		AE5A61C124CE4FFB006D0E8B /* ImageSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE5A61C024CE4FFB006D0E8B /* ImageSaver.swift */; };
+		AE94B33F24CFA3E800DFA7C1 /* CurrentLocationGetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE94B33E24CFA3E800DFA7C1 /* CurrentLocationGetter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		AE5A61B824CE4FA9006D0E8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE5A61BE24CE4FCF006D0E8B /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		AE5A61C024CE4FFB006D0E8B /* ImageSaver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSaver.swift; sourceTree = "<group>"; };
+		AE94B33E24CFA3E800DFA7C1 /* CurrentLocationGetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentLocationGetter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				AE5A61AE24CE4FA2006D0E8B /* ContentView.swift */,
 				AE5A61BE24CE4FCF006D0E8B /* ImagePicker.swift */,
 				AE5A61C024CE4FFB006D0E8B /* ImageSaver.swift */,
+				AE94B33E24CFA3E800DFA7C1 /* CurrentLocationGetter.swift */,
 				AE5A61B024CE4FA9006D0E8B /* Assets.xcassets */,
 				AE5A61B524CE4FA9006D0E8B /* LaunchScreen.storyboard */,
 				AE5A61B824CE4FA9006D0E8B /* Info.plist */,
@@ -155,6 +158,7 @@
 				AE5A61AB24CE4FA2006D0E8B /* AppDelegate.swift in Sources */,
 				AE5A61BF24CE4FCF006D0E8B /* ImagePicker.swift in Sources */,
 				AE5A61C124CE4FFB006D0E8B /* ImageSaver.swift in Sources */,
+				AE94B33F24CFA3E800DFA7C1 /* CurrentLocationGetter.swift in Sources */,
 				AE5A61AD24CE4FA2006D0E8B /* SceneDelegate.swift in Sources */,
 				AE5A61AF24CE4FA2006D0E8B /* ContentView.swift in Sources */,
 			);
